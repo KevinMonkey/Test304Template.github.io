@@ -31,7 +31,7 @@ This project aims to investigate and develop smart adaptive technologies, an imp
 
 | **Team Member**        |**Ind Datasheet Links** |
 | ---------------------- | -----------------------|
-| Name #1                | [JohnDoe.GitHub](https://www.example.com) |
+| Name #1                | [JohnDoe.GitHub](https://embedded-systems-design.github.io/EGR304DataSheetTemplate) |
 | Name #2                | link |
 | Name #3                | link |
 | Name #4                | link |
